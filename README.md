@@ -4,8 +4,8 @@
 
 This program allows you to control your cursor with you hand, with different types of gestures:<br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;`Fist(Finger 0)`&nbsp;&nbsp;: To LeftClick at a specific position<br>
-&nbsp;&nbsp;&nbsp;&nbsp;`1 Finger`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: To control the postition of the cursor<br>
+&nbsp;&nbsp;&nbsp;&nbsp;`0 Finger` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: To LeftClick at a specific position<br>
+&nbsp;&nbsp;&nbsp;&nbsp;`1 Finger` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: To control the postition of the cursor<br>
 &nbsp;&nbsp;&nbsp;&nbsp;`2 Fingers`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: You can assign it to your need<br>
 &nbsp;&nbsp;&nbsp;&nbsp;`3 Fingers`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: To Scroll Down <br>
 &nbsp;&nbsp;&nbsp;&nbsp;`4 Fingers`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: To Scroll Up<br>
