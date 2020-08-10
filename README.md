@@ -17,8 +17,8 @@ This program is just an idea of what the future technology will bring with it. I
 
 ## How it works?
 
-The program first tries to detect a hand by converting the video image to black and white and then subtracts the stable background for better detection of hand. <br>
-Then to detect the number of fingers, different functions like convex hull and countours that gives us the number of valleys that will be formed in the hand image, that is the gaps between the fingers. For finger 1 and fist the area and arearatio covered by the hand tells us which is what.<br>
+The program first tries to detect a hand by converting the video image to black and white and then subtracts the stable background for better detection of hand. <br><br>
+Then to detect the number of fingers, different functions like convex hull and countours that gives us the number of valleys that will be formed in the hand image, that is the gaps between the fingers. For finger 1 and fist the area and arearatio covered by the hand tells us which is what.<br><br>
 After that for movement of the mouse the brightest pixel in the image screen is taken as the reference coordinate and then the cursor is moved to that position using the `PyAutoGUI` Automation library.
 
 ## Some Tips
