@@ -3,23 +3,6 @@ Created on Sat May 30 00:30:47 2020
 @author: Gaurang Gupta
 """
 
-"""
-This program allows you to control your cursor with you hand, with different types of gestures:
-    Fist(Finger 0)  : To LeftClick at a specific position
-    1 Finger        : To control the postition of the cursor
-    3 Fingers       : To Scroll Down 
-    4 Fingers       : To Scroll Up
-    5 Fingers       : To Start or Stop the Program
-
-The background needs to be clear and blank to detect the hand correctly. To make sure of that 
-enable set the Debug variable to True
-
-This program is just an idea of what the future technology will bring with it.
-It is still a concept with lot of conditions needed to work properly.
-Its accuracy and movement is not the greatest but it will provide you enough satisfaction
-to experience what the future will bring with it.
-"""
-
 import cv2.cv2 as cv2
 import numpy as np
 import pyautogui as pag
