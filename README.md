@@ -4,12 +4,12 @@
 
 This program allows you to control your cursor with you hand, with different types of gestures:<br><br>
 '''
-    + `Fist(Finger 0)`  + : To LeftClick at a specific position<br>
-    + `1 Finger`    +   + : To control the postition of the cursor<br>
-    + `2 Fingers`   +   + : You can assign it to your need<br>
-    + `3 Fingers`   +   + : To Scroll Down <br>
-    + `4 Fingers`   +   + : To Scroll Up<br>
-    + `5 Fingers`   +   + : To Start or Stop the Program<br>
+&nbsp;&nbsp;&nbsp;&nbsp;`Fist(Finger 0)`&nbsp;&nbsp;: To LeftClick at a specific position<br>
+&nbsp;&nbsp;&nbsp;&nbsp;`1 Finger`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: To control the postition of the cursor<br>
+&nbsp;&nbsp;&nbsp;&nbsp;`2 Fingers`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: You can assign it to your need<br>
+&nbsp;&nbsp;&nbsp;&nbsp;`3 Fingers`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: To Scroll Down <br>
+&nbsp;&nbsp;&nbsp;&nbsp;`4 Fingers`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: To Scroll Up<br>
+&nbsp;&nbsp;&nbsp;&nbsp;`5 Fingers`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: To Start or Stop the Program<br>
 '''
 
 The background needs to be clear and blank to detect the hand correctly. To make sure of that enable set the Debug variable to True.
