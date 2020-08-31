@@ -1,4 +1,4 @@
-# Hand-Cursor-Controller
+# Gesture Mouse Automation
 
 **Version 1.0.0**
 
