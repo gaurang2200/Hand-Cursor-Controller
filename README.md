@@ -27,4 +27,4 @@ After that for movement of the mouse the brightest pixel in the image screen is 
 2. To start and stop the program show the five fingers.<br>
 3. To terminate the program press `Ctrl+C` in the console.<br>
 
-## LinkedIN Post Link: https://www.linkedin.com/feed/update/urn:li:activity:6693546821140189184/
+### LinkedIN Post Link: https://www.linkedin.com/feed/update/urn:li:activity:6693546821140189184/
