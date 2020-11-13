@@ -26,3 +26,5 @@ After that for movement of the mouse the brightest pixel in the image screen is 
 1. Keep the background clear when the mask image is created, because the cursor is mapped and moved to the top brightest pixel in the mask.<br>
 2. To start and stop the program show the five fingers.<br>
 3. To terminate the program press `Ctrl+C` in the console.<br>
+
+## LinkedIN Post Link: https://www.linkedin.com/feed/update/urn:li:activity:6693546821140189184/
