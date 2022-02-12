@@ -2,6 +2,8 @@
 
 **Version 1.0.0**
 
+### LinkedIn Post Link: [Video Link](https://www.linkedin.com/feed/update/urn:li:activity:6693546821140189184/)
+
 This program allows you to control your cursor with you hand, with different types of gestures:<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;`0 Finger` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : To LeftClick at a specific position<br>
@@ -26,5 +28,3 @@ After that for movement of the mouse the brightest pixel in the image screen is 
 1. Keep the background clear when the mask image is created, because the cursor is mapped and moved to the top brightest pixel in the mask.<br>
 2. To start and stop the program show the five fingers.<br>
 3. To terminate the program press `Ctrl+C` in the console.<br>
-
-### LinkedIn Post Link: [Video Link](https://www.linkedin.com/feed/update/urn:li:activity:6693546821140189184/)
