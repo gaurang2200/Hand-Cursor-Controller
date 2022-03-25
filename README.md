@@ -4,7 +4,7 @@
 
 ### LinkedIn Post Link: [Video Link](https://www.linkedin.com/feed/update/urn:li:activity:6693546821140189184/)
 
-This program allows you to control your cursor with you hand, with different types of gestures:<br>
+This program allows you to control your cursor with your hand, with different types of gestures:<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;`0 Finger` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : To LeftClick at a specific position<br>
 &nbsp;&nbsp;&nbsp;&nbsp;`1 Finger` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : To control the postition of the cursor<br>
