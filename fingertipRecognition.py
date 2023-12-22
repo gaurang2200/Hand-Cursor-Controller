@@ -3,7 +3,7 @@ Created on Sat May 30 00:30:47 2020
 @author: Gaurang Gupta
 """
 
-import cv2.cv2 as cv2
+import cv2
 import numpy as np
 import pyautogui as pag
 import time
